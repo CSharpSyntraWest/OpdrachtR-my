@@ -1,0 +1,8 @@
+﻿        //Zet de migrations op en genereer de database (via Package manager console)
+        //Aan te vullen voor Grootboekrekening, Journaal en journaalpost : 
+        //1)maak de interfaces in het Contracts project
+        //2)maak de Repositories in het Repository project
+        //3)maak de GrootboekController, JournaalController 
+        //en JournaalPostController classes in het MVC project met CRUD functionaliteit
+        //4) Voeg security toe (login en register + beveiligingen tegen hacking)
+        //5) Voeg Unit Tests toe voor de RepositoryManager, zoals in de oefeningen van CompanyEmployees
